@@ -14,3 +14,8 @@ Consumption will be measured in kW. To get it, we'll use the AC current sensor (
 
 It is worth to say that we use ADC interrupts and Timer 0 interrupts, at the same time, by setting priority in them.
 
+![prototype](https://user-images.githubusercontent.com/91303136/231690216-df90577c-47a0-4ff7-adba-77952a2cb52e.jpg)
+![prototype_1](https://user-images.githubusercontent.com/91303136/231690219-4053fd47-fd2a-403d-9fd9-68c0bc957f7b.jpg)
+![prototype_3](https://user-images.githubusercontent.com/91303136/231690222-ead72bc5-9b70-4c57-988b-2eaf0075ed83.jpg)
+![test1](https://user-images.githubusercontent.com/91303136/231690223-437f3128-6b95-4ea6-beef-3dc71137d71d.jpg)
+![test2](https://user-images.githubusercontent.com/91303136/231690225-07af1783-f1ff-41f3-b7f7-d8506b01ca82.jpg)
